@@ -1,0 +1,9 @@
+Date,Weekday,Topic,Title,Author / Source,Link,Summary (3-line),Classification,Key Takeaways,Tags
+2025-10-28,,,DAGs: Your Visual Roadmap to Understanding Cause and Effect,Saeed Mehrang,https://medium.com/%40saeed.mehrang/dags-your-visual-roadmap-to-understanding-cause-and-effect-249e218340d8,,,,
+2025-10-28,,,The 3 Rules of Do-Calculus,Joshua Philipp Entrop,https://www.joshua-entrop.com/post/the_3_rules_of_do_calculus.html,,,,
+2025-10-29,,,Causal Reinforcement Learning: Do-Calculus for Better Policies,Satyam Mishra,https://satyamcser.medium.com/causal-reinforcement-learning-do-calculus-for-better-policies-dfdfe076ddd6,,,,
+2025-10-30,,,Interpretable Machine Learning for Time Series Predictions,Katy,https://levelup.gitconnected.com/interpretable-machine-learning-for-time-series-predictions-f877a86eaad4?gi=b0eceeb4eda4,,,,
+2025-10-30,,,Introduction to Fundamentals of Statistics for Data Analysis,Durga Gadiraju,https://medium.com/itversity/introduction-to-fundamentals-of-statistics-for-data-analysis-c24779e67241,,,,
+2025-10-30,Thursday,Do-Calculus,Introduction to Judea Pearl’s Do-Calculus,Robert R. Tucci / arXiv (2013),https://arxiv.org/abs/1305.5506,"Math-forward intro to the three rules of do-calculus and causal identifiability.
+Walks through notation, graphical assumptions, and worked examples.
+Useful primer to connect DAG-based rules with practical identification steps.",Thu—Mathematical/Paper,Formal statement of Rules 1–3; criteria for intervention/identification; examples bridging DAG structure to algebraic manipulations of P(Y|do(X)).,do-calculus; pearl; causal-graphs; mathematical; paper; Thu
